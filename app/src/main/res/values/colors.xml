@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="zhi">#803ff0</color>
+    <color name="hei">#030609</color>
+    <color name="white">#f9fafa</color>
+    <color name="hui">#a2a8ad</color>
+    <color name="red">#fb0101</color>
+    <color name="lan">#83d7f9</color>
+    <color name="sl">#4084c8</color>
+    <color name="se">#e9c65e</color>
+    <color name="se1">#61bb17</color>
+    <color name="se2">#f623fa</color>
+    <color name="se3">#149a70</color>
+    <color name="background">#fcfce5</color>
+    <color name="z">#f6ed98</color>
+    <color name="b">#b548b3</color>
+</resources>

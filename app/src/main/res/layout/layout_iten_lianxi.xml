@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="8dp"
+        android:id="@+id/cardview"
+        android:layout_margin="8dp"
+        android:background="@color/colorPrimary"
+        >
+        <!--<ImageView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:src="@mipmap/hjc_c"/>-->
+
+    </android.support.v7.widget.CardView>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:src="@mipmap/ic_launcher"
+        />
+
+
+        <TextView
+            android:id="@+id/tv_lianxi"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="@color/z"
+            android:text="啥啥啥"
+            android:textSize="25sp" />
+
+        <!--<CheckBox-->
+            <!--android:id="@+id/checkbox"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="fill_parent" />-->
+    </LinearLayout>
+</LinearLayout>

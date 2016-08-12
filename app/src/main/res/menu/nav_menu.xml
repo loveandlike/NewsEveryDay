@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_first"
+            android:icon="@drawable/wallpaper_5250676"
+            android:title="三宫">
+
+        </item>
+        <item
+            android:id="@+id/menu_second"
+            android:icon="@drawable/wallpaper_5250676"
+            android:title="六院">
+
+        </item>
+        <item
+            android:id="@+id/menu_third"
+            android:icon="@drawable/wallpaper_5250693"
+            android:title="七十二妃">
+
+        </item>
+        <item
+            android:icon="@mipmap/ic_launcher"
+            android:title="冷宫">
+            <menu>
+
+                <item
+                    android:id="@+id/other_first"
+                    android:icon="@mipmap/ic_launcher"
+                    android:title="其他嫔妃">
+
+                </item>
+                <item
+                    android:id="@+id/other_second"
+                    android:icon="@mipmap/ic_launcher"
+                    android:title="其他才人">
+
+                </item>
+            </menu>
+        </item>
+    </group>
+</menu>
